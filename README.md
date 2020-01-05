@@ -26,5 +26,4 @@ BibTeX:
 
 -------------------------------------
 
-
-codes and models will be added soon 
+- codes and models will be added soon 
