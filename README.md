@@ -5,6 +5,16 @@
 
 - All the waveforms used for the test can be accessed from STEAD using the trace_name. 
 
+### You can get the paper from here:
+https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085976
+
+-------------------------------------
+## Reference:
+
+`Mousavi, S. M., & Beroza, G. C. (2019). A Machine‐Learning Approach for Earthquake Magnitude Estimation. Geophysical Research Letters.` 
+
+
+BibTeX:
 
     @article{mousavi2019machine,
       title={A Machine-Learning Approach for Earthquake Magnitude Estimation},
@@ -14,4 +24,7 @@
       publisher={Wiley Online Library}
     }
 
-codes will be added soon 
+-------------------------------------
+
+
+codes and models will be added soon 
