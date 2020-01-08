@@ -1,5 +1,4 @@
 # MagNet
-
 ## A Machine-Learning Approach for Earthquake Magnitude Estimation     
 
 - Test results are provided for the performance comparison against other methods.
