@@ -32,3 +32,7 @@ BibTeX:
 ![7](Fig_7.png)
 
 ![8](Fig_8.png)
+
+![plots1](plots1.png)
+![plots2](plots2.png)
+![plots4](plots4.png)
