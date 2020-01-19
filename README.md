@@ -33,4 +33,3 @@ BibTeX:
 ![plots1](plots1.png)
 ![plots2](plots2.png)
 ![plots4](plots4.png)
-![X_learning_curve_loss](X_learning_curve_loss.png)
