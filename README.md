@@ -3,7 +3,7 @@
 
 - Test results are provided for the performance comparison against other methods.
 
-- All the waveforms used for the test can be accessed from STEAD using the trace_name. 
+- All the waveforms used for the test can be accessed from STEAD (https://github.com/smousavi05/STEAD) using the trace_name. 
 
 ### You can get the paper from here:
 https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085976
