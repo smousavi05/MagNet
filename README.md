@@ -6,8 +6,9 @@
 - All the waveforms used for the test can be accessed from STEAD (https://github.com/smousavi05/STEAD) using the trace_name. 
 
 ### You can get the paper from here:
+Link 1: 
 https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085976
-### or here:
+Link 2:
 https://www.researchgate.net/publication/338184318_A_Machine-Learning_Approach_for_Earthquake_Magnitude_Estimation
 
 -------------------------------------
