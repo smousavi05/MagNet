@@ -8,6 +8,7 @@
 ### You can get the paper from here:
 Link 1: 
 https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085976
+
 Link 2:
 https://www.researchgate.net/publication/338184318_A_Machine-Learning_Approach_for_Earthquake_Magnitude_Estimation
 
