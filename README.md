@@ -29,6 +29,9 @@ BibTeX:
     }
 
 -------------------------------------
+
+The size of an earthquake at its source is measured from the amplitude (or sometimes the duration) of the ground motion recorded on seismic instruments, and is expressed in terms of magnitude. Magnitude is a logarithmic measure and usually is measured based on data recorded by multiple stations after applying some pre‐proccessing and corrections to the raw signals. Here, we introduce the first successful deep‐learning approach to estimate directly the magnitude from raw seismic signals recorded on a single station.
+
 ![model](Fig_1.jpg)
 ![7](Fig_7.png)
 ![8](Fig_8.png)
