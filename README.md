@@ -7,7 +7,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/MagNet?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
-- Test results are provided for the performance comparison against other methods.
+- Test results are provided for the performance comparison against other methods.  
 
 - All the waveforms used for the test can be accessed from STEAD (https://github.com/smousavi05/STEAD) using the trace_name. 
 
